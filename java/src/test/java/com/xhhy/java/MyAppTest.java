@@ -8,9 +8,11 @@ public class MyAppTest extends TestCase{
 	
 	    public void testMyApp()
 	    {
+	    	
 	    	MyApp mt = new MyApp();
 	    	mt.sayHello();
 	        /*assertTrue( true );*/
+	    	System.out.println("1111111111");
 	    }
 
 }
